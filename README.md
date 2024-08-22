@@ -1,1 +1,1 @@
-# Oasis-Infobyte-Number-Guessing-Game
+# Number Gussing Game
